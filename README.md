@@ -6,6 +6,8 @@
     <h3 align="center">CSE undergrad from TIET</h3>  
     </div>
 </div>
+
+<img src="https://camo.githubusercontent.com/be575ce3e433139533b885cd613525952ed5c4d83348a5eb2bba00251a367b15/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f636f6c6f723d2532333645463738312663656e7465723d74727565266c696e65733d4e6963652b746f2b652d6d6565742b796f752546302539462539382539433b492b616d2b616e2b6173706972696e672b736f6674776172652b656e67696e6565722546302539462539322542423b5363726f6c6c2b74696c6c2b7468652b656e64254532253943253843254546254238253846" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?color=%236EF781&amp;center=true&amp;lines=Nice+to+e-meet+you%F0%9F%98%9C;I+am+an+aspiring+software+engineer%F0%9F%92%BB;Scroll+till+the+end%E2%9C%8C%EF%B8%8F" style="max-width: 100%;">
    
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
    
